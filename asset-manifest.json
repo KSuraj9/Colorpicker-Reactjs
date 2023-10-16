@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Colorpicker-Reactjs/static/css/main.d8c40b8e.css",
+    "main.js": "/Colorpicker-Reactjs/static/js/main.77f51d2b.js",
+    "index.html": "/Colorpicker-Reactjs/index.html",
+    "main.d8c40b8e.css.map": "/Colorpicker-Reactjs/static/css/main.d8c40b8e.css.map",
+    "main.77f51d2b.js.map": "/Colorpicker-Reactjs/static/js/main.77f51d2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c40b8e.css",
+    "static/js/main.77f51d2b.js"
+  ]
+}
